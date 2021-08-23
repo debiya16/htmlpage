@@ -1,0 +1,57 @@
+h1{
+  font-family: display;
+  font-size: 80px;
+  color: pink;
+  text-decoration:underline;
+
+  text-decoration-color:teal;
+  text-align: center;
+  font-style:bold;
+  font-weight: 800;
+
+}
+
+body{
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoXOgdyr7rVYZ-1UiC5WsAJ-PxiIKtKctTA&usqp=CAU    ");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.menu {
+   background-color: steelblue;
+   margin: 0;
+   padding: 0px;
+}
+
+.menu a{
+  padding: 14px 16px;
+  color: beige;
+  text-decoration: none;
+  float: left;
+ }
+
+.menu a:hover{
+  background-color: lightblue:
+}
+
+.coding{
+  text-align: center;
+  font-size: 32px;
+ color: white;
+}
+
+img{
+  width: 50%;
+  height: 50%
+}
+
+nav a, footer a{
+  font-family: fantasy;
+}
+
+h2{
+  font-family: fantasy;
+}
+body{
+  background-color: blue;
+}
